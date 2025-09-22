@@ -225,9 +225,5 @@ minikube service frontend-service -n dev
 [No traffic from backend-pod → frontend-pod]
 ```
 
-***
 
-**Feel free to copy and adapt this README for maximally engaging GitHub projects, workshops, or documentation!**
-
-***
 
